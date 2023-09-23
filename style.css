@@ -251,6 +251,10 @@
         background-color: red;
     } */
     /* Home or Booking  */
+    .right{
+        word-spacing: 20px;
+        margin-right: 10px;
+    }
     .home{
         /* padding-left: 9px; */
         width: 100%;
@@ -292,11 +296,12 @@
         border-radius: 0.5rem;
     }
 
-    .about-text span{
-        font-weight: 500;
-        color :rgb(222, 103, 12);
+        .about-text span{
+        font-weight: 510;
+        color :rgb(18, 18, 17);
         text-transform: uppercase;
-        text-align: center;
+        align-items: center;
+        margin-left: 30%;
         font-size: 20px;
     }
 
